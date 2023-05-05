@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function file3() {
+export default function file32() {
   return (
-    <div>file3</div>
+    <div>fil32</div>
   )
 }
